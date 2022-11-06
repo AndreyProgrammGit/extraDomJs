@@ -66,3 +66,4 @@ console.log(iterator.next())
 // for (let res of salaries){
 //     console.log(res);
 // }
+console.log(HUI);
